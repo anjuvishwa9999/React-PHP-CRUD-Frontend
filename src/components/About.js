@@ -5,7 +5,7 @@ function About(){
     return(
         <div className='nav2'>
 
-           <h1><b>Hello customer !!</b></h1>
+           <h1><b>Hello customer  for web developing !!</b></h1>
         </div>
     )
 }
